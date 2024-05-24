@@ -2,6 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
+#import nothing
+
 # K-Means Clustering Exercise Questions
 # Abdelrazzaq Abuhejleh - 20189102002
 
